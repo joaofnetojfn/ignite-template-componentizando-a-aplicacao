@@ -31,7 +31,8 @@ Sou um FullStack Developer :computer:
       contributors
     </a>
     (https://rocketseat.com.br/){:target="_blank"}.
-    This is a [link](http://example.com){:hreflang="de"}
+    (https://rocketseat.com.br/){:hreflang="de"}
+     (https://rocketseat.com.br/){:hreflang="_blank"}
     </p>
   </sub>
 </div>
