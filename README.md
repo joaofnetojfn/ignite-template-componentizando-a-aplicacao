@@ -27,12 +27,9 @@ Sou um FullStack Developer :computer:
   <sub>Construído com ❤︎ por
     <a href="https://github.com/joaofnetojfn">João Ferreira Neto</a> and
     <p>
-     <a href="https://rocketseat.com.br/" [link](url){:target="_blank"}>
+     <a href="https://rocketseat.com.br/" {:target="_blank"}>
       contributors
-    </a>
-    (https://rocketseat.com.br/){:target="_blank"}.
-    (https://rocketseat.com.br/){:hreflang="de"}
-     (https://rocketseat.com.br/){:hreflang="_blank"}
+    </a>"}
     </p>
   </sub>
 </div>
