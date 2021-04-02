@@ -26,7 +26,7 @@ Sou um FullStack Developer :computer:
 <div align="center">
   <sub>Construído com ❤︎ por
     <a href="https://github.com/joaofnetojfn">João Ferreira Neto</a> and
-    <a href="https://github.com/joaofnetojfn/Proffy_030820_WEb/graphs/contributors">
+    <a href="https://rocketseat.com.br/">
       contributors
     </a>
   </sub>
