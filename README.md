@@ -26,10 +26,13 @@ Sou um FullStack Developer :computer:
 <div align="center">
   <sub>Construído com ❤︎ por
     <a href="https://github.com/joaofnetojfn">João Ferreira Neto</a> and
-    <a href="https://rocketseat.com.br/" [link](url){:target="_blank"}>
+    <p>
+     <a href="https://rocketseat.com.br/" [link](url){:target="_blank"}>
       contributors
     </a>
-    [example website](https://rocketseat.com.br/){target="_blank"}.
+    (https://rocketseat.com.br/){:target="_blank"}.
+    This is a [link](http://example.com){:hreflang="de"}
+    </p>
   </sub>
 </div>
 
