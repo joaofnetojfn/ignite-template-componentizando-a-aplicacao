@@ -29,6 +29,7 @@ Sou um FullStack Developer :computer:
     <a href="https://rocketseat.com.br/" [link](url){:target="_blank"}>
       contributors
     </a>
+    [example website](https://rocketseat.com.br/){target="_blank"}.
   </sub>
 </div>
 
